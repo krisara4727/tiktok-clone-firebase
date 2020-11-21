@@ -1,0 +1,10 @@
+.videoSidebar {
+    position: absolute;
+    top: 50%;
+    margin-left: 85%;
+    filter: invert(1);
+}
+.videoSidebar_icons{
+    padding-bottom: 30px;
+    text-align: center;
+}
